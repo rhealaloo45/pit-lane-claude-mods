@@ -1,0 +1,1 @@
+{ "name": "usage-buddy", "version": "0.1.0", "description": "Live usage meter with a mascot, plus model-switch recommendations based on your prompt", "types": "./types/index.d.ts" }
