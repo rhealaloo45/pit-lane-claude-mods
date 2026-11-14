@@ -1,1 +1,10 @@
-{ "name": "pit-wall", "version": "0.1.0", "description": "F1-style pit wall pane: track build-plan phases and GitHub pushes", "types": "./types/index.d.ts" }
+{
+  "name": "pit-wall",
+  "version": "0.1.0",
+  "description": "F1-style pit wall pane: track build-plan phases and GitHub pushes",
+  "author": {
+    "name": "Rhea Laloo"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

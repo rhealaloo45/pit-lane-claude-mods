@@ -1,0 +1,26 @@
+{
+  "name": "pit-lane-claude-mods",
+  "owner": {
+    "name": "Rhea Laloo"
+  },
+  "plugins": [
+    {
+      "name": "usage-buddy",
+      "source": "./usage-buddy",
+      "description": "Live usage meter with a mascot, plus model-switch recommendations based on your prompt"
+    },
+    {
+      "name": "pit-wall",
+      "source": "./pit-wall",
+      "description": "F1-style pit wall pane: track build-plan phases and GitHub pushes"
+    },
+    {
+      "name": "cupertino-dusk",
+      "source": "./cupertino-dusk",
+      "description": "A dark dusk theme with an animated scene: a ring-shaped campus among trees, the western hills, and an indigo-to-peach sky."
+    }
+  ],
+  "metadata": {
+    "description": "Claude Code mods: usage meter, pit wall plan tracker, and a dusk theme."
+  }
+}
